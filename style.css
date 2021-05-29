@@ -1,0 +1,37 @@
+body{
+    background-color:#e3fafc;
+    text-align: center;
+}
+marquee{
+    font-size: 20px;
+    color:#70aae0;
+font-family: 'Pattaya', sans-serif;
+    
+}
+#video_school{
+   height: 400px;
+    width: 70%;
+   
+}
+#map_school{
+   height: 400px;
+    width:70%;
+   
+   
+}
+#webpage_school{
+   height: 400px;
+    width: 70%;
+   
+}
+h1{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+label{
+    font-size: 18px;
+}
